@@ -1,0 +1,4 @@
+---
+# tasks file for setup_mysql
+- include_tasks: setup_repo.yml
+- include_tasks: install.yml
